@@ -1,0 +1,10 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Closed Circuit Consulting
+
+[package]
+name = "hello"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+
+[dependencies]
